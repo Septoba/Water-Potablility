@@ -14,7 +14,7 @@ https://www.kaggle.com/datasets/adityakadiwal/water-potability/.
 
 Algorithms and Solution Techniques:
  
-	We intend to make use of the following techniques via Jupyter Notebook, and the Python libraries: pandas, NumPy, Matplotlib, and scikit-learn. 
+We intend to make use of the following techniques via Jupyter Notebook, and the Python libraries: pandas, NumPy, Matplotlib, and scikit-learn. 
 (for MinMaxScaler and K-means, and DBSCAN). GitHub for collaboration.
 	On our initial findings on the project, we are going to make use of the below: 
 a)	 Pre-processing and Data Cleaning – We have cleaned the data by removing nulls, normalizing the data, and ensuring all features are the correct data types.
